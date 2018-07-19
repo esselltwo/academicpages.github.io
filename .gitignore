@@ -1,2 +1,6 @@
 _site/
 
+Gemfile.lock
+
+*.sublime-workspace
+*.sublime-project
