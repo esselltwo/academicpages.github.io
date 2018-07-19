@@ -141,6 +141,7 @@ exclude:
   - Rakefile
   - README
   - tmp
+  - legacy_pages
 keep_files:
   - .git
   - .svn
