@@ -19,7 +19,7 @@ I study quantum and low-dimensional topology and related topics in representatio
 Most recently I been thinking about invariants of links with extra structure, for example a flat Lie algebra connection on the complement or a representation of the knot group.
 These are conjectured to have something to do with geometric knot invariants like hyperbolic volume.
 
-Slightly less recently, [Kyle Miller](math.berkeley.edu/~kmill) and I wrote a paper on extending some quantum-topology techniques for planar graphs to graphs embedded in higher-genus surfaces.
+Slightly less recently, [Kyle Miller](http://math.berkeley.edu/~kmill) and I wrote a paper on extending some quantum-topology techniques for planar graphs to graphs embedded in higher-genus surfaces.
 In particular, we found a state-sum invariant of embedded graphs called the "S-polynomial."
 
 ## esselltwo
